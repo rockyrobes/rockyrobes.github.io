@@ -1,6 +1,8 @@
 body {
   background-color:darkolivegreen;
   color:burlywood;
+  background-image:url("beetle.png");
+  background-position: center bottom
 }
 h1 {
   color:bisque;
