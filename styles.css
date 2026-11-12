@@ -1,9 +1,13 @@
 body {
-  background-color:darkolivegreen;
-  color:burlywood;
+  height:100%;
+  margin:0;
   background-image:url("beetle.png");
-  background-position: center bottom;
-  background-size: auto 170px;
+  background-color:darkolivegreen;
+  background-size: 170px;
+  background-position-y: bottom;
+  background-repeat:repeat-x;
+  background-attachment: fixed;
+  color:burlywood;
 }
 h1 {
   color:bisque;
