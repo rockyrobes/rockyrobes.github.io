@@ -2,7 +2,8 @@ body {
   background-color:darkolivegreen;
   color:burlywood;
   background-image:url("beetle.png");
-  background-position: center bottom
+  background-position: center bottom;
+  background-size: auto 170px;
 }
 h1 {
   color:bisque;
