@@ -1,9 +1,8 @@
 body {
   height:100%;
-  margin:0;
   background-image:url("beetle.png");
   background-color:darkolivegreen;
-  background-size: 170px;
+  background-size: 200px;
   background-position-y: bottom;
   background-repeat:repeat-x;
   background-attachment: fixed;
